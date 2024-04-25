@@ -19,8 +19,8 @@
 
 - Second year computer science student
 - Passionnate about web development
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Have a thirst for learning
+- Currently working on my fundamentals of React
 - Personal website [link](https://shadazls.github.io/) (currently in the process of reworking it from scratch)
 - I'm currently looking for an apprenticeship contract for my third (and possibly fourth and fifth) year of study.
 
