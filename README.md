@@ -35,7 +35,7 @@
 
 - **Back-End Development**:
 
-  <img src="https://skillicons.dev/icons?i=nodejs&perline=14" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
 <br>
 
 - **Softwares and Tools**:
