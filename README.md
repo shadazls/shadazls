@@ -6,9 +6,9 @@
 
 <br>
 
-## <picture><img src = "https://github.com/shadazls/shadazls/images/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./images/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/shadazls/shadazls/images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="./images/right_side.gif?raw=true" width = 250px></picture>
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br><br>
 
-<img src="https://github.com/shadazls/shadazls/images/line.gif"><br><br>
+<img src="./images/line.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -49,10 +49,10 @@
 -----
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/shadazls"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "./images/statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -67,7 +67,7 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/shadazls">
 	    <img alt="shadazls's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadazls&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazls&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
@@ -110,7 +110,7 @@
 
 </br></br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="./images/handshake.gif" width ="80">
 <br>
 <div align='center'>
   <a href="https://www.linkedin.com/in/shad-azuelos/" target="_blank">
@@ -119,7 +119,7 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./images/line.gif">
 <br>
 
 Last update on Mon Apr 29 2024
