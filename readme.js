@@ -8,7 +8,7 @@ module.exports = `<h1 align="center"><b>Hi , I'm Shad Azuelos </b><img src="http
 
 ## <picture><img src = "./images/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="./images/right_side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="./images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
