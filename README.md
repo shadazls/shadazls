@@ -12,7 +12,7 @@
 
 <br>
 
-- Second year computer science student
+- Fourth year computer science student
 - Passionnate about web development
 - Have a thirst for learning
 - Currently working on my fundamentals of React
