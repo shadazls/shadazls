@@ -30,7 +30,7 @@
     
 - **Front-End Development**:
 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next&perline=14" />
 <br>
 
 - **Back-End Development**:
